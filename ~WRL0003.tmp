@@ -15,16 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>Esther Barvels</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Esther BARVELS</o:LastAuthor>
-  <o:Revision>4</o:Revision>
-  <o:TotalTime>425</o:TotalTime>
-  <o:Created>2022-09-07T11:31:00Z</o:Created>
-  <o:LastSaved>2022-09-07T11:32:00Z</o:LastSaved>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>417</o:TotalTime>
+  <o:Created>2022-09-07T11:24:00Z</o:Created>
+  <o:LastSaved>2022-09-07T11:24:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>2008</o:Words>
-  <o:Characters>11448</o:Characters>
-  <o:Lines>95</o:Lines>
+  <o:Words>1992</o:Words>
+  <o:Characters>11358</o:Characters>
+  <o:Lines>94</o:Lines>
   <o:Paragraphs>26</o:Paragraphs>
-  <o:CharactersWithSpaces>13430</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>13324</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -35,9 +35,9 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <link rel=colorSchemeMapping href="index_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
-  <w:Zoom>80</w:Zoom>
   <w:SpellingState>Clean</w:SpellingState>
-  <w:TrackMoves>false</w:TrackMoves>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves/>
   <w:TrackFormatting/>
   <w:PunctuationKerning/>
   <w:ValidateAgainstSchemas/>
@@ -716,17 +716,6 @@ a:visited, span.MsoHyperlinkFollowed
 	mso-themecolor:followedhyperlink;
 	text-decoration:underline;
 	text-underline:single;}
-p
-	{mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-margin-top-alt:auto;
-	margin-right:0in;
-	mso-margin-bottom-alt:auto;
-	margin-left:0in;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:"Times New Roman";}
 span.MsoPlaceholderText
 	{mso-style-noshow:yes;
 	mso-style-priority:99;
@@ -845,6 +834,9 @@ span.UnresolvedMention1
 span.SpellE
 	{mso-style-name:"";
 	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -2026,7 +2018,7 @@ Interpretation <o:p></o:p></span></b></p>
 style='font-size:16.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
 major-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
 major-latin;mso-bidi-theme-font:major-latin;color:black'>&amp;<span
-class=SpellE>quot</span>;<o:p></o:p></span></b></p>
+class=SpellE><span class=GramE>quot</span></span><span class=GramE>;</span><o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
@@ -2047,482 +2039,51 @@ major-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
 major-latin;mso-bidi-theme-font:major-latin;color:black'>The app displays six
 nation-wide datasets:<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
-major-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin;color:black'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoListParagraphCxSpFirst style='margin-bottom:0in;mso-add-space:auto;
+text-indent:-.25in;line-height:normal;mso-list:l5 level1 lfo17'><![if !supportLists]><span
+style='font-size:12.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
+color:black'><span style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;
+mso-ascii-theme-font:major-latin;mso-fareast-font-family:"Times New Roman";
+mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black'>Normalized
+Difference Vegetation Index (NDVI) (10-meter resolution maps targeting agricultural
+land and monthly time series)<o:p></o:p></span></p>
 
-<table class=MsoTable15Plain1 border=1 cellspacing=0 cellpadding=0 width=787
- style='margin-left:35.75pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
- mso-border-themeshade:191;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:5.5pt'>
-  <td width=288 valign=top style='width:3.0in;border:solid #BFBFBF 1.0pt;
-  mso-border-themecolor:background1;mso-border-themeshade:191;mso-border-alt:
-  solid #BFBFBF .5pt;mso-border-themecolor:background1;mso-border-themeshade:
-  191;background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:0in 5.4pt 0in 5.4pt;height:5.5pt'>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:80'><b><span style='font-size:
-  10.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black'>Indicator</span></b><span
-  style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
-  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'><o:p></o:p></span></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border:solid #BFBFBF 1.0pt;
-  mso-border-themecolor:background1;mso-border-themeshade:191;border-left:none;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
-  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
-  height:5.5pt'>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:64'><b><span style='font-size:
-  10.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black'>Unit</span></b><span
-  style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
-  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'><o:p></o:p></span></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border:solid #BFBFBF 1.0pt;
-  mso-border-themecolor:background1;mso-border-themeshade:191;border-left:none;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
-  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
-  height:5.5pt'>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:80'><b><span style='font-size:
-  10.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black'>Format</span></b><span
-  style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
-  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'><o:p></o:p></span></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border:solid #BFBFBF 1.0pt;
-  mso-border-themecolor:background1;mso-border-themeshade:191;border-left:none;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
-  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
-  height:5.5pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
-  64'><b><span style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;
-  mso-ascii-theme-font:major-latin;mso-fareast-font-family:"Times New Roman";
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black'>Update
-  frequency </span></b><span style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;
-  mso-ascii-theme-font:major-latin;mso-fareast-font-family:"Times New Roman";
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black'><o:p></o:p></span></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border:solid #BFBFBF 1.0pt;
-  mso-border-themecolor:background1;mso-border-themeshade:191;border-left:none;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
-  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
-  height:5.5pt'>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:80'><b><span style='font-size:
-  10.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black'>Spatial resolution</span></b><span
-  style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
-  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1;height:5.5pt'>
-  <td width=288 valign=top style='width:3.0in;border:solid #BFBFBF 1.0pt;
-  mso-border-themecolor:background1;mso-border-themeshade:191;border-top:none;
-  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
-  mso-border-top-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  5.5pt'>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:16'><b><span style='font-size:
-  10.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black'>Normalized Difference Vegetation
-  Index (NDVI), </span></b><span style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;
-  mso-ascii-theme-font:major-latin;mso-fareast-font-family:"Times New Roman";
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black'>targeting
-  cropland area – indicator for crop health</span><span style='font-size:10.0pt;
-  font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'><o:p></o:p></span></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  5.5pt'>
-  <p class=MsoNoSpacing><span style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;
-  mso-ascii-theme-font:major-latin;mso-fareast-font-family:"Times New Roman";
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black'>Standard
-  deviation</span><span style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin'><o:p></o:p></span></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  5.5pt'>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:16'><span style='font-size:10.0pt;
-  font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black'>Time series, maps</span><span
-  style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
-  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'><o:p></o:p></span></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  5.5pt'>
-  <p class=MsoNoSpacing><span style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;
-  mso-ascii-theme-font:major-latin;mso-fareast-font-family:"Times New Roman";
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black'>Monthly</span><span
-  style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
-  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'><o:p></o:p></span></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  5.5pt'>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:16'><span style='font-size:10.0pt;
-  font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black'>10m</span><span
-  style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
-  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2;height:7.05pt'>
-  <td width=288 valign=top style='width:3.0in;border:solid #BFBFBF 1.0pt;
-  mso-border-themecolor:background1;mso-border-themeshade:191;border-top:none;
-  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
-  mso-border-top-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  7.05pt'>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:80'><b><span style='font-size:
-  10.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black'>Cropland area</span></b><span
-  style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
-  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'><o:p></o:p></span></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  7.05pt'>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:64'><span lang=EN-GB
-  style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
-  major-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
-  major-latin;mso-bidi-theme-font:major-latin;color:black;mso-ansi-language:
-  EN-GB'>km</span><span lang=DE style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;
-  mso-ascii-theme-font:major-latin;mso-fareast-font-family:"Times New Roman";
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black;
-  mso-ansi-language:DE'>²</span><span style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin'><o:p></o:p></span></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  7.05pt'>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:80'><span style='font-size:10.0pt;
-  font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black'>Time series, maps</span><span
-  style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
-  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'><o:p></o:p></span></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  7.05pt'>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:64'><span style='font-size:10.0pt;
-  font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black'>Annually</span><span
-  style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
-  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'><o:p></o:p></span></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  7.05pt'>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:80'><span style='font-size:10.0pt;
-  font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black'>10m</span><span
-  style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
-  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3;height:7.05pt'>
-  <td width=288 valign=top style='width:3.0in;border:solid #BFBFBF 1.0pt;
-  mso-border-themecolor:background1;mso-border-themeshade:191;border-top:none;
-  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
-  mso-border-top-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  7.05pt'>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:16'><b><span style='font-size:
-  10.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black'>Surface water area<o:p></o:p></span></b></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  7.05pt'>
-  <p class=MsoNoSpacing><span lang=EN-GB style='font-size:10.0pt;font-family:
-  "Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-fareast-font-family:
-  "Times New Roman";mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;
-  color:black;mso-ansi-language:EN-GB'>km</span><span lang=DE style='font-size:
-  10.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black;mso-ansi-language:DE'>²</span><span
-  lang=EN-GB style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;
-  mso-ascii-theme-font:major-latin;mso-fareast-font-family:"Times New Roman";
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black;
-  mso-ansi-language:EN-GB'><o:p></o:p></span></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  7.05pt'>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:16'><span style='font-size:10.0pt;
-  font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black'>Time series, maps<o:p></o:p></span></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  7.05pt'>
-  <p class=MsoNoSpacing><span style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;
-  mso-ascii-theme-font:major-latin;mso-fareast-font-family:"Times New Roman";
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black'>Monthly<o:p></o:p></span></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  7.05pt'>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:16'><span style='font-size:10.0pt;
-  font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black'>10m<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:4;height:7.05pt'>
-  <td width=288 valign=top style='width:3.0in;border:solid #BFBFBF 1.0pt;
-  mso-border-themecolor:background1;mso-border-themeshade:191;border-top:none;
-  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
-  mso-border-top-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  7.05pt'>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:80'><b><span style='font-size:
-  10.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black'>Precipitation sum<o:p></o:p></span></b></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  7.05pt'>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:64'><span style='font-size:10.0pt;
-  font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black'>mm</span><span lang=EN-GB
-  style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
-  major-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
-  major-latin;mso-bidi-theme-font:major-latin;color:black;mso-ansi-language:
-  EN-GB'><o:p></o:p></span></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  7.05pt'>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:80'><span style='font-size:10.0pt;
-  font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black'>Time series<o:p></o:p></span></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  7.05pt'>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:64'><span style='font-size:10.0pt;
-  font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black'>Monthly<o:p></o:p></span></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  7.05pt'>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:80'><span style='font-size:10.0pt;
-  font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black'>5.5km<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes;height:7.05pt'>
-  <td width=288 valign=top style='width:3.0in;border:solid #BFBFBF 1.0pt;
-  mso-border-themecolor:background1;mso-border-themeshade:191;border-top:none;
-  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
-  mso-border-top-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  7.05pt'>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:16'><b><span style='font-size:
-  10.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black'>Standard Precipitation Index
-  (SPI) <o:p></o:p></span></b></p>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:16'><span style='font-size:10.0pt;
-  font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black'>– indicator for drought
-  intensity<b><o:p></o:p></b></span></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  7.05pt'>
-  <p class=MsoNoSpacing><span style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;
-  mso-ascii-theme-font:major-latin;mso-fareast-font-family:"Times New Roman";
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black'>Standard
-  deviation</span><span lang=EN-GB style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;
-  mso-ascii-theme-font:major-latin;mso-fareast-font-family:"Times New Roman";
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black;
-  mso-ansi-language:EN-GB'><o:p></o:p></span></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  7.05pt'>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:16'><span style='font-size:10.0pt;
-  font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black'>Time series<o:p></o:p></span></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  7.05pt'>
-  <p class=MsoNoSpacing><span style='font-size:10.0pt;font-family:"Calibri Light",sans-serif;
-  mso-ascii-theme-font:major-latin;mso-fareast-font-family:"Times New Roman";
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black'>Monthly<o:p></o:p></span></p>
-  </td>
-  <td width=125 valign=top style='width:1.3in;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
-  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  7.05pt'>
-  <p class=MsoNoSpacing style='mso-yfti-cnfc:16'><span style='font-size:10.0pt;
-  font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-  mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
-  mso-bidi-theme-font:major-latin;color:black'>5.5km<o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
+<p class=MsoListParagraphCxSpMiddle style='margin-bottom:0in;mso-add-space:
+auto;text-indent:-.25in;line-height:normal;mso-list:l5 level1 lfo17'><![if !supportLists]><span
+style='font-size:12.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
+color:black'><span style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;
+mso-ascii-theme-font:major-latin;mso-fareast-font-family:"Times New Roman";
+mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black'>Surface
+water area (10-meter resolution maps and monthly time series), <o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
-major-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin;color:black'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoListParagraphCxSpMiddle style='margin-bottom:0in;mso-add-space:
+auto;text-indent:-.25in;line-height:normal;mso-list:l5 level1 lfo17'><![if !supportLists]><span
+style='font-size:12.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
+color:black'><span style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;
+mso-ascii-theme-font:major-latin;mso-fareast-font-family:"Times New Roman";
+mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black'>Cropland
+area (10-meter resolution annual change maps and annual time series)<o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-bottom:0in;mso-add-space:
+auto;text-indent:-.25in;line-height:normal;mso-list:l5 level1 lfo17'><![if !supportLists]><span
+style='font-size:12.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
+color:black'><span style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;
+mso-ascii-theme-font:major-latin;mso-fareast-font-family:"Times New Roman";
+mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black'>Precipitation
+sum (monthly time series)<o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpLast style='margin-bottom:0in;mso-add-space:auto;
+text-indent:-.25in;line-height:normal;mso-list:l5 level1 lfo17'><![if !supportLists]><span
+style='font-size:12.0pt;font-family:"Courier New";mso-fareast-font-family:"Courier New";
+color:black'><span style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;
+mso-ascii-theme-font:major-latin;mso-fareast-font-family:"Times New Roman";
+mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black'>Standard
+Precipitation Index (SPI) (monthly time series).<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
@@ -2614,10 +2175,10 @@ major-latin;mso-bidi-theme-font:major-latin;color:black'><o:p></o:p></span></p>
 margin-left:.5in;line-height:normal'><span style='font-size:12.0pt;font-family:
 "Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-fareast-font-family:
 "Times New Roman";mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;
-color:black'>Note: As rain-fed cropland extent changes throughout the years, (e.g.
-due to land abandonment during dry years or reactivation of land during wet
-years) NDVI mosaics can during dry years potentially include abandoned or fallow
-land which could lead to lower NDVI.<o:p></o:p></span></p>
+color:black'>Note: As rain-fed cropland extent changes throughout the years, (<span
+class=GramE>e.g.</span> due to land abandonment during dry years or
+reactivation of land during wet years) NDVI mosaics can during dry years potentially
+include abandoned or fallow land which could lead to lower NDVI.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
@@ -3364,11 +2925,11 @@ mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black'>HA
      mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
      mso-bidi-theme-font:major-latin'>Training the model. The RF was trained on
      the training points generated in Step 1, with associated features (pixel
-     values extracted from the layer stack) from the corresponding month. I.e.
-     training points from a given month were associate with satellite observations
-     from the same month. Subsequently, all features extracted from one year
-     were combined into one training dataset. Thereby, the RF was trained on
-     data from one full calendar year.<o:p></o:p></span></li>
+     values extracted from the layer stack) from the corresponding month. <span
+     class=GramE>I.e.</span> training points from a given month were associate
+     with satellite observations from the same month. Subsequently, all
+     features extracted from one year were combined into one training dataset.
+     Thereby, the RF was trained on data from one full calendar year.<o:p></o:p></span></li>
  <li class=MsoNormal style='color:black;margin-bottom:0in;line-height:normal;
      mso-list:l9 level1 lfo2;tab-stops:list .5in'><span style='font-size:12.0pt;
      font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
@@ -3447,8 +3008,8 @@ major-latin;mso-bidi-theme-font:major-latin;color:black'>Methodology<o:p></o:p><
 style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
 major-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
 major-latin;mso-bidi-theme-font:major-latin;color:black'>Source data: Climate
-Hazards Group InfraRed Precipitation With Station Data, Version 2.0 Final
-(CHIRPS)<o:p></o:p></span></p>
+Hazards Group InfraRed Precipitation <span class=GramE>With</span> Station
+Data, Version 2.0 Final (CHIRPS)<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
@@ -3499,8 +3060,8 @@ major-latin;mso-bidi-theme-font:major-latin;color:black'>Methodology<o:p></o:p><
 style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
 major-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
 major-latin;mso-bidi-theme-font:major-latin;color:black'>Source data: Climate
-Hazards Group InfraRed Precipitation With Station Data, Version 2.0 Final
-(CHIRPS)<o:p></o:p></span></p>
+Hazards Group InfraRed Precipitation <span class=GramE>With</span> Station
+Data, Version 2.0 Final (CHIRPS)<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
@@ -3543,9 +3104,9 @@ major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>z-
 deviation from the mean of units of the standard deviation for a given
 accumulation period (e.g., 1, 3, 6, 12, 24 months). The mean and standard
 deviation used to calculate the SPI, are computed based for the same
-accumulation period within the preceding time period. In this script, total
-precipitation for any accumulation period is calculating by summing daily
-CHIRPS data.<o:p></o:p></span></p>
+accumulation period within the preceding <span class=GramE>time period</span>. In
+this script, total precipitation for any accumulation period is calculating by
+summing daily CHIRPS data.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
