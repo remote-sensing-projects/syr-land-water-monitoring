@@ -16,15 +16,15 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Esther BARVELS</o:LastAuthor>
   <o:Revision>2</o:Revision>
-  <o:TotalTime>422</o:TotalTime>
-  <o:Created>2022-09-08T12:09:00Z</o:Created>
-  <o:LastSaved>2022-09-08T12:09:00Z</o:LastSaved>
+  <o:TotalTime>465</o:TotalTime>
+  <o:Created>2023-05-01T09:02:00Z</o:Created>
+  <o:LastSaved>2023-05-01T09:02:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>2000</o:Words>
-  <o:Characters>11400</o:Characters>
-  <o:Lines>95</o:Lines>
+  <o:Words>1998</o:Words>
+  <o:Characters>11393</o:Characters>
+  <o:Lines>94</o:Lines>
   <o:Paragraphs>26</o:Paragraphs>
-  <o:CharactersWithSpaces>13374</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>13365</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -35,9 +35,10 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <link rel=colorSchemeMapping href="index_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
+  <w:Zoom>90</w:Zoom>
   <w:SpellingState>Clean</w:SpellingState>
   <w:GrammarState>Clean</w:GrammarState>
-  <w:TrackMoves/>
+  <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:PunctuationKerning/>
   <w:ValidateAgainstSchemas/>
@@ -2356,7 +2357,7 @@ major-latin;mso-bidi-theme-font:major-latin;color:black'>Methodology<o:p></o:p><
 style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
 major-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
 major-latin;mso-bidi-theme-font:major-latin;color:black'>Source data: Sentinel-2
-MSI: <span class=SpellE>MultiSpectral</span> Instrument, Level-1C<o:p></o:p></span></p>
+MSI: <span class=SpellE>MultiSpectral</span> Instrument, Level-1C and Level-2A <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
@@ -2365,10 +2366,29 @@ major-latin;mso-bidi-theme-font:major-latin;color:black'>Script:&nbsp;</span><a
 href="https://code.earthengine.google.com/7c85d9bc5a2d5ecdd8ff9d520fe93b5d"><span
 style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
 major-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'>NDVI Composites</span></a><span
+major-latin;mso-bidi-theme-font:major-latin'>NDVI Composites</span></a><u><span
 style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
 major-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin;color:black'><o:p></o:p></span></p>
+major-latin;mso-bidi-theme-font:major-latin;color:blue'><o:p></o:p></span></u></p>
+
+<p class=MsoNormal style='margin-bottom:0in;line-height:normal'><u><span
+style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
+major-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin;color:blue'><o:p><span
+ style='text-decoration:none'>&nbsp;</span></o:p></span></u></p>
+
+<p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
+major-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin;color:black'>Due to the lack of
+Bottom of Atmosphere (BOA) imagery (Level-2A), i.e., atmospherically corrected
+imagery for the years 2017 and 2018 in some parts of the region, TOA imagery (Level-1C)
+was used for these years.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
+major-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin;color:black'><o:p>&nbsp;</o:p></span></p>
 
 <ol style='margin-top:0in' start=1 type=1>
  <li class=MsoNormal style='color:black;margin-bottom:0in;line-height:normal;
@@ -2384,15 +2404,23 @@ major-latin;mso-bidi-theme-font:major-latin;color:black'><o:p></o:p></span></p>
      major-latin;mso-bidi-theme-font:major-latin'>Sen2CloudLess algorithm</span></a></span><span
      style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
      major-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
-     major-latin;mso-bidi-theme-font:major-latin'>. Processing of Sentinel-2
-     Top of Atmosphere (TOA) imagery through </span><span style='color:windowtext'><a
+     major-latin;mso-bidi-theme-font:major-latin'>. <o:p></o:p></span></li>
+ <li class=MsoNormal style='color:black;margin-bottom:0in;line-height:normal;
+     mso-list:l3 level1 lfo1;tab-stops:list .5in'><span style='font-size:12.0pt;
+     font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
+     mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
+     mso-bidi-theme-font:major-latin'>The </span><span style='color:windowtext'><a
      href="https://github.com/MarcYin/SIAC_GEE"><span style='font-size:12.0pt;
      font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
      mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
      mso-bidi-theme-font:major-latin'>sensor-invariant atmospheric correction
      (SIAC)</span></a></span><span style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;
      mso-ascii-theme-font:major-latin;mso-fareast-font-family:"Times New Roman";
-     mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>.*<o:p></o:p></span></li>
+     mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'> was
+     applied to TOA imagery which improved NDVI accuracy. The improvement was
+     not sufficient to match exactly with NDVI derived from BOA imagery, thus, NDVI
+     values for January 2017 to December 2018 tend to be underestimated when
+     compared to BOA imagery derived NDVI.<o:p></o:p></span></li>
  <li class=MsoNormal style='color:black;margin-bottom:0in;line-height:normal;
      mso-list:l3 level1 lfo1;tab-stops:list .5in'><span style='font-size:12.0pt;
      font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
@@ -2436,23 +2464,6 @@ major-latin;mso-bidi-theme-font:major-latin;color:black'><o:p>&nbsp;</o:p></span
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
 major-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin;color:black'>*Note: Due to the lack
-of Bottom of Atmosphere (BOA) imagery (Level-2A), i.e., atmospherically
-corrected imagery, for January 2017 to October 2018 in some parts of the region,
-TOA imagery (Level-1C) was used. Despite improvement of the NDVI accuracy
-through applying </span><a href="https://github.com/MarcYin/SIAC_GEE"><span
-style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
-major-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'>SIAC</span></a><span
-style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
-major-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin;color:black'> to TOA imagery, NDVI
-values tend to be slightly underestimated when compared to BOA imagery derived
-NDVI.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
-major-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
 major-latin;mso-bidi-theme-font:major-latin;color:black'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
@@ -2464,9 +2475,9 @@ major-latin;mso-bidi-theme-font:major-latin;color:black'>Interpretation<o:p></o:
 style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
 major-latin;mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:
 major-latin;mso-bidi-theme-font:major-latin;color:black'>NDVI is used to
-quantify vegetation greenness and useful to understand vegetation health and
-vegetation density. High NDVI values correspond to healthy vegetation while low
-NDVI corresponds to less or no vegetation.<o:p></o:p></span></p>
+quantify vegetation greenness and <span class=GramE>useful</span> to understand
+vegetation health and vegetation density. High NDVI values correspond to
+healthy vegetation while low NDVI corresponds to less or no vegetation.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
@@ -2623,9 +2634,10 @@ mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme
 major-latin'>Training the model. The RF was trained on the training points
 generated in Step 1, with associated features (pixel values extracted from the
 layer stack) from the corresponding month. I.e., training points from a given
-month were associate with satellite observations from the same month. Subsequently,
-all features extracted from one year were combined into one training dataset.
-Thereby, the RF was trained on data from one full calendar year.<o:p></o:p></span></p>
+month were <span class=GramE>associate</span> with satellite observations from
+the same month. Subsequently, all features extracted from one year were
+combined into one training dataset. Thereby, the RF was trained on data from
+one full calendar year.<o:p></o:p></span></p>
 
 <p class=MsoNoSpacing style='margin-left:.5in;text-indent:-.25in;mso-list:l10 level1 lfo8'><![if !supportLists]><span
 style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
@@ -2662,8 +2674,8 @@ validation points were sampled outside a minimum buffer of 1km of the training
 points. Stratified random sampling of validation points was generated for the
 binary classes. In the absence of in-situ measurements, the ground truthing
 process had to be done through satellite imagery. Using a GEE script, each
-point was compared against base satellite imagery to validate whether the
-classified label was correct or not.<o:p></o:p></span></p>
+point was compared against base satellite imagery to validate whether the classified
+label was correct or not.<o:p></o:p></span></p>
 
 <p class=MsoNoSpacing style='margin-left:.5in'><span style='font-size:12.0pt;
 font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
@@ -2975,7 +2987,7 @@ major-latin'><o:p>&nbsp;</o:p></span></b></p>
 
 <p class=MsoNoSpacing><u><span style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-major-latin'>Change maps<o:p></o:p></span></u></p>
+major-latin'>Change <span class=GramE>maps</span><o:p></o:p></span></u></p>
 
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-fareast-font-family:
@@ -2990,13 +3002,13 @@ mso-bidi-font-family:Calibri;color:black'><o:p></o:p></span></p>
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:black'>There is a risk that cropland area in 2019/2020
-was overestimated (see explanation above) which could have led to an
-overestimation of “lost” cropland area in the following season, 2020/2021.
-“Lost” areas therefore not necessarily indicate abandoned land but potentially
-include fields that experienced a significant decrease in crop productivity
-while they were still under management.</span><span style='font-size:12.0pt;
-mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
-mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black'><o:p></o:p></span></p>
+was overestimated (see explanation above) which could have led to an overestimation
+of “lost” cropland area in the following season, 2020/2021. “Lost” areas
+therefore not necessarily indicate abandoned land but potentially include
+fields that experienced a significant decrease in crop productivity while they
+were still under management.</span><span style='font-size:12.0pt;mso-ascii-font-family:
+Calibri;mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;
+mso-bidi-font-family:Calibri;color:black'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-fareast-font-family:
@@ -3004,10 +3016,9 @@ style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-fareast-font-
 coverage of the land cover product used to mask forested areas led to
 inaccurately classified crop loss between the seasons 2019/2020 and 2020/2021
 in sub-districts, Kasab, <span class=SpellE>Masaada</span>, Khan <span
-class=SpellE>Arnaba</span> and <span class=SpellE>Rabeea</span>.</span><span
-style='font-size:12.0pt;mso-ascii-font-family:Calibri;mso-fareast-font-family:
-"Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
-color:black'><o:p></o:p></span></p>
+class=SpellE>Arnaba</span> and Rabeea.</span><span style='font-size:12.0pt;
+mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black'><o:p></o:p></span></p>
 
 <p class=MsoNoSpacing><span style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
@@ -3105,9 +3116,9 @@ Engine (GEE).<o:p></o:p></span></p>
      mso-fareast-font-family:"Times New Roman";mso-hansi-theme-font:major-latin;
      mso-bidi-theme-font:major-latin'>Generating training data. Monthly surface
      water datasets at 30 m resolution were available from GLAD 1999-2020. The
-     GLAD surface water maps were used as sampling areas after applying a
-     negative buffer of 30 m. 200 water and 800 land points were randomly
-     sampled from each monthly map.<o:p></o:p></span></li>
+     GLAD surface water maps were used as sampling areas after applying a negative
+     buffer of 30 m. 200 water and 800 land points were randomly sampled from
+     each monthly map.<o:p></o:p></span></li>
  <li class=MsoNormal style='color:black;margin-bottom:0in;line-height:normal;
      mso-list:l9 level1 lfo2;tab-stops:list .5in'><span style='font-size:12.0pt;
      font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
@@ -3125,9 +3136,9 @@ color:black'><span style='mso-list:Ignore'>o<span style='font:7.0pt "Times New R
 mso-ascii-theme-font:major-latin;mso-fareast-font-family:"Times New Roman";
 mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black'>Cloud
 masked Sentinel-2 composites (bands: MNDWI, NDVI, blue, green, red, <span
-class=SpellE>nir</span>, swir1, swir2). The Sentinel-2 time-series was snow masking
-using a combination of automatic and spectral based thresholds and manual
-delineation.<o:p></o:p></span></p>
+class=SpellE>nir</span>, swir1, swir2). The Sentinel-2 time-series was snow
+masking using a combination of automatic and spectral based thresholds and
+manual delineation.<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:0in;margin-left:1.25in;mso-add-space:auto;text-indent:-.25in;
@@ -3175,10 +3186,11 @@ mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black'>HA
      mso-bidi-theme-font:major-latin'>Training the model. The RF was trained on
      the training points generated in Step 1, with associated features (pixel
      values extracted from the layer stack) from the corresponding month. <span
-     class=GramE>I.e.</span> training points from a given month were associate
-     with satellite observations from the same month. Subsequently, all
-     features extracted from one year were combined into one training dataset.
-     Thereby, the RF was trained on data from one full calendar year.<o:p></o:p></span></li>
+     class=GramE>I.e.</span> training points from a given month were <span
+     class=GramE>associate</span> with satellite observations from the same
+     month. Subsequently, all features extracted from one year were combined
+     into one training dataset. Thereby, the RF was trained on data from one
+     full calendar year.<o:p></o:p></span></li>
  <li class=MsoNormal style='color:black;margin-bottom:0in;line-height:normal;
      mso-list:l9 level1 lfo2;tab-stops:list .5in'><span style='font-size:12.0pt;
      font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
@@ -3333,22 +3345,22 @@ major-latin;mso-bidi-theme-font:major-latin;color:black'>&nbsp;<o:p></o:p></span
 style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:black'>The SPI is a drought indicator&nbsp;developed by
 McKee et al. (1993) and describes the probability&nbsp;of variation from the
-normal precipitation over multiple years of data, on a monthly (or multiple
-months) time step.</span><span style='font-size:12.0pt;mso-ascii-font-family:
-Calibri;mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;
+normal precipitation over multiple years of data, on a monthly (or multiple months)
+time step.</span><span style='font-size:12.0pt;mso-ascii-font-family:Calibri;
+mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;
 mso-bidi-font-family:Calibri;color:black'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:black'>The SPI is a&nbsp;z-score deviation from the
 mean of units of the standard deviation for a given accumulation period (e.g.,
-1, 3, 6, 12, 24 months). The mean and standard deviation used to calculate the
-SPI, are computed based for the same accumulation period within the preceding <span
-class=GramE>time period</span>. In this script, total precipitation for any
-accumulation period is calculating by summing daily CHIRPS data.</span><span
-style='font-size:12.0pt;mso-ascii-font-family:Calibri;mso-fareast-font-family:
-"Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
-color:black'><o:p></o:p></span></p>
+1, 3, 6, 12, 24 months). The mean and standard deviation used to calculate the <span
+class=GramE>SPI,</span> are computed based for the same accumulation period
+within the preceding <span class=GramE>time period</span>. In this script,
+total precipitation for any accumulation period is <span class=GramE>calculating</span>
+by summing daily CHIRPS data.</span><span style='font-size:12.0pt;mso-ascii-font-family:
+Calibri;mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;
+mso-bidi-font-family:Calibri;color:black'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Calibri Light",sans-serif;mso-fareast-font-family:
